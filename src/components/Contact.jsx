@@ -7,7 +7,7 @@ import { FaInstagram } from 'react-icons/fa'
 const Contact = () => {
   return (
     <>
-      <div className="border-t border-neutral-900 pt-10">
+      <div className="border-t border-neutral-900 pt-10 mb-4">
         <h1 className='my-10 text-center text-4xl font-light'>Shreyas Kumar | Eleshrek</h1>
         <div className="text-center tracking-tighter">
           <p className="my-2">Rajajipuram, Lucknow, Uttar Pradesh.</p>
